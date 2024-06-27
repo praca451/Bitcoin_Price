@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/notebook_bitcoin.git
+git clone https://github.com/praca451/Bitcoin_Price/
 cd notebook_bitcoin
 Install the required packages:
 Ensure you have Python 3.6+ and TensorFlow installed. You can install the necessary packages using:
