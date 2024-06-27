@@ -10,22 +10,25 @@ Visualization: Generates visual representations of the analyzed data to help und
 Installation
 Clone the repository:
 
-bash
+
 Copy code
+
 git clone https://github.com/praca451/Bitcoin_Price/
 cd notebook_bitcoin
 Install the required packages:
 Ensure you have Python 3.6+ and TensorFlow installed. You can install the necessary packages using:
 
-bash
+
 Copy code
+
 pip install -r requirements.txt
 Usage
 Run the Script:
 Execute the notebook_bitcoin.py script to load the TensorFlow model and analyze Bitcoin data.
 
-bash
+
 Copy code
+
 python notebook_bitcoin.py
 View the Results:
 The script will output analysis results and generate visualizations to help understand Bitcoin trends from 2013 to 2021.
